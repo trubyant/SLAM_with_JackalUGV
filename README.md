@@ -1,0 +1,1 @@
+Implementation of 2D SLAM and autonomous navigation (in Gazebo and Real Environments) with Clearpath Jackal UGV using ROS. Includes navigation, gmapping, and localization. As well, workspace setup instructions.
